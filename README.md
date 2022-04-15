@@ -15,7 +15,7 @@ $ cli-webp-converter <url>
 
 Or run directly
 ```shell
-$ npx cli-webp-converter
+$ npx cli-webp-converter <url>
 ```
 
 ## License
