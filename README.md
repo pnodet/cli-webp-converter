@@ -9,7 +9,7 @@
 ## Usage
 
 ```shell
-$ npm install cli-webp-converter
+$ npm install -g cli-webp-converter
 $ cli-webp-converter <url>
 ```
 
