@@ -1,6 +1,6 @@
 {
 	"name": "cli-webp-converter",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Download webp images as png or jpeg from the command line",
 	"license": "MIT",
 	"repository": "pnxdxt/cli-webp-converter",
