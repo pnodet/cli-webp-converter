@@ -1,0 +1,45 @@
+{
+	"name": "template-cli",
+	"version": "0.0.1",
+	"description": "Template repository to easily create cli",
+	"license": "MIT",
+	"repository": "pnxdxt/template-cli",
+	"author": {
+		"name": "Paul Nodet",
+		"email": "paul.nodet@gmail.com",
+		"url": "https://pnodet.com"
+	},
+	"type": "module",
+	"bin": "./cli.js",
+	"engines": {
+		"node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"lint": "xo",
+		"lint:fix": "xo --fix"
+	},
+	"files": [
+		"cli.js"
+	],
+	"keywords": [
+		"utility",
+		"util",
+		"cli-app",
+		"cli"
+	],
+	"dependencies": {
+		"meow": "^10.1.0",
+		"ora": "^6.1.0"
+	},
+	"devDependencies": {
+		"ava": "^3.15.0",
+		"prettier-config-xo": "^2.0.0",
+		"xo": "^0.41.0"
+	},
+	"prettier": "prettier-config-xo",
+	"xo": {
+		"prettier": true,
+		"rules": {}
+	}
+}
