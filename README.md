@@ -1,21 +1,21 @@
-# template-cli
+# cli-webp-converter
 > Template repository to easily create cli
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
-[![GitHub workflow status](https://img.shields.io/github/workflow/status/pnxdxt/template-cli/CI)](https://github.com/pnxdxt/template-cli)
-[![npm bundle size](https://img.shields.io/bundlephobia/min/template-cli)](https://bundlephobia.com/package/template-cli)
-[![npm downloads](https://img.shields.io/npm/dt/template-cli)](https://www.npmjs.com/package/template-cli)
+[![GitHub workflow status](https://img.shields.io/github/workflow/status/pnxdxt/cli-webp-converter/CI)](https://github.com/pnxdxt/cli-webp-converter)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/cli-webp-converter)](https://bundlephobia.com/package/cli-webp-converter)
+[![npm downloads](https://img.shields.io/npm/dt/cli-webp-converter)](https://www.npmjs.com/package/cli-webp-converter)
 
 ## Usage
 
 ```shell
-$ npm install template-cli
-$ template-cli
+$ npm install cli-webp-converter
+$ cli-webp-converter <url>
 ```
 
 Or run directly
 ```shell
-$ npx template-cli
+$ npx cli-webp-converter
 ```
 
 ## License

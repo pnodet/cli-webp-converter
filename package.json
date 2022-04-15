@@ -1,9 +1,9 @@
 {
-	"name": "template-cli",
+	"name": "cli-webp-converter",
 	"version": "0.0.1",
 	"description": "Template repository to easily create cli",
 	"license": "MIT",
-	"repository": "pnxdxt/template-cli",
+	"repository": "pnxdxt/cli-webp-converter",
 	"author": {
 		"name": "Paul Nodet",
 		"email": "paul.nodet@gmail.com",
@@ -30,7 +30,8 @@
 	],
 	"dependencies": {
 		"meow": "^10.1.0",
-		"ora": "^6.1.0"
+		"ora": "^6.1.0",
+		"sharp": "^0.30.3"
 	},
 	"devDependencies": {
 		"ava": "^3.15.0",
