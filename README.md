@@ -1,5 +1,5 @@
 # cli-webp-converter
-> Template repository to easily create cli
+> Download webp images as png or jpeg from the command line
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 [![GitHub workflow status](https://img.shields.io/github/workflow/status/pnxdxt/cli-webp-converter/CI)](https://github.com/pnxdxt/cli-webp-converter)
